@@ -2,6 +2,6 @@
 
 >scientia potentia est
 
-    go get -u github.com/bugaiov/cryptocapwatch
+    go get -u github.com/bugaiov/cap
 
 ![Demo](demo.jpg)
